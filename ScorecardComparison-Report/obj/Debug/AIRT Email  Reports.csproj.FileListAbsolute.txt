@@ -1,0 +1,15 @@
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\bin\Debug\ScorecardComparison-Report.exe.config
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\bin\Debug\ScorecardComparison-Report.exe
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\bin\Debug\ScorecardComparison-Report.pdb
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\obj\Debug\AIRT Email  Reports.csprojAssemblyReference.cache
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\obj\Debug\AIRT Email  Reports.csproj.ResolveComReference.cache
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\obj\Debug\AIRT Email  Reports.csproj.CoreCompileInputs.cache
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\obj\Debug\ScorecardComparison-Report.exe
+C:\unzipped\CSEO_UntaggedBugsTracker-master\CSEO_UntaggedBugsTracker-master\ScorecardComparison-Report\obj\Debug\ScorecardComparison-Report.pdb
+D:\Development\AutoMailer_Untagged\AutoMailer_Untagged_ExcelTrack\CSEO_Untagged_ExcelRetrival-master\ScorecardComparison-Report\bin\Debug\ScorecardComparison-Report.exe.config
+D:\Development\AutoMailer_Untagged\AutoMailer_Untagged_ExcelTrack\CSEO_Untagged_ExcelRetrival-master\ScorecardComparison-Report\bin\Debug\ScorecardComparison-Report.exe
+D:\Development\AutoMailer_Untagged\AutoMailer_Untagged_ExcelTrack\CSEO_Untagged_ExcelRetrival-master\ScorecardComparison-Report\bin\Debug\ScorecardComparison-Report.pdb
+D:\Development\AutoMailer_Untagged\AutoMailer_Untagged_ExcelTrack\CSEO_Untagged_ExcelRetrival-master\ScorecardComparison-Report\obj\Debug\AIRT Email  Reports.csproj.ResolveComReference.cache
+D:\Development\AutoMailer_Untagged\AutoMailer_Untagged_ExcelTrack\CSEO_Untagged_ExcelRetrival-master\ScorecardComparison-Report\obj\Debug\AIRT Email  Reports.csproj.CoreCompileInputs.cache
+D:\Development\AutoMailer_Untagged\AutoMailer_Untagged_ExcelTrack\CSEO_Untagged_ExcelRetrival-master\ScorecardComparison-Report\obj\Debug\ScorecardComparison-Report.exe
+D:\Development\AutoMailer_Untagged\AutoMailer_Untagged_ExcelTrack\CSEO_Untagged_ExcelRetrival-master\ScorecardComparison-Report\obj\Debug\ScorecardComparison-Report.pdb
